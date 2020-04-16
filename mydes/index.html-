@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gauransh</title>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+</head>
+<body> 
+        <div class="nav-container">
+            <div class="wrapper">
+            <nav>
+                <div class="logo">
+                    GS
+                </div>
+                <ul class="nav-items">
+                    <li>
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Portfolio</a>
+                    </li>
+                    <li>
+                        <a href="#">Blog</a>
+                    </li>
+                    <li>
+                        <a href="#">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+            </div>
+    </div>
+    <div class="header-container"> 
+        <div class="wrapper">
+            <header>
+                <div class="hero-content">
+                    <h6>Hi I'm <a href="#">Gauransh</a></h6>
+                    <p id="what">I design ,I code and <br> I dream</p>
+                </div>
+                <div class="hero-image"><img src="cd.png" height="461px" width="461px" /></div>
+                <div class="photo-bg">
+
+                </div>
+            </header> 
+        </div>
+    </div>
+</body>
+</html>
