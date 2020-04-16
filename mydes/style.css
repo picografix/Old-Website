@@ -56,15 +56,12 @@ text-transform: capitalize;
     color: black;
 }
 .main-body {
-    position: absolute;
-    width: 1656px;
-    height: 90%;
-    left: 0px;
-    top: 72px;
-    display: flex;
-    background: #C4C4C4 url('g1.svg');
+    
+    background: #C4C4C4 ;
+    background-image: url('g1.svg');
     background-repeat: no-repeat;
     background-position: right;
+    background-size: contain;
 }
 .intro {
     position: absolute;
