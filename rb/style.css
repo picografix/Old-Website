@@ -1,0 +1,129 @@
+body {
+    width: 100vh;
+height: 100vh;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #000000 0%, #243B55 100%);
+background-repeat: no-repeat;
+}
+.nav-container  {
+    height: 72px;
+}
+.side-img img {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 95%;
+    top: 9%;
+}
+    
+}
+.side-img {
+    margin: 0;
+    padding: 0;
+}
+.top {
+    width: 100%;
+    background-image: url(top.svg);
+    /* z-index: 100; */
+    /* box-shadow: 0px 4px 50px rgba(20, 215, 203, 0.78); */
+    height: 433px;
+    top: 0;
+    left: 0;
+    margin: 0;
+    position: absolute;
+    background-repeat: no-repeat;
+
+}
+.bottom {
+    background-image: url(bottom.svg);
+    position: absolute;
+    width: 1440px;
+    height: 324px;
+    left: -59px;
+    top: 378px;
+}
+.logo {
+    position: absolute;
+width: 106px;
+height: 119px;
+left: 207px;
+top: 0px;
+
+font-family: Shadows Into Light;
+font-style: normal;
+font-weight: 300;
+font-size: 100px;
+line-height: 161px;
+
+color: #FFFFFF;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.home {
+    position: absolute;
+width: 166px;
+height: 75px;
+left: 1126px;
+top: 44px;
+
+font-family: Quicksand;
+font-style: normal;
+font-weight: 300;
+font-size: 60px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.name {
+    
+    position: absolute;
+    width: 519px;
+    height: 120px;
+    left: 829px;
+    top: 324px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 78px;
+    line-height: 120px;
+    color: #FFFFFF;
+}
+.por {
+    position: absolute;
+    width: 177px;
+    height: 56px;
+    left: 1113px;
+    top: 420px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 56px;
+    color: #FFFFFF;
+    align-items: end;
+}
+.company{
+    position: absolute;
+    width: 289px;
+    height: 48px;
+    left: 1000px;
+    top: 474px;
+    font-family: Quicksand;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 47px;
+    color: #FFFFFF;
+}
+.face img  {
+    position: absolute;
+    width: 558px;
+    height: 511px;
+    left: 152px;
+    top: 188px;
+}
+
+}
